@@ -1,4 +1,4 @@
-// CBA Settings
+//pragma ignoreThisFile
 
 [
     QGVAR(enableCrewBailing),

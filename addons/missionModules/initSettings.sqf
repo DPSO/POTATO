@@ -1,3 +1,4 @@
+//pragma ignoreThisFile
 [
     QGVAR(aiSkill_set),
     "CHECKBOX",

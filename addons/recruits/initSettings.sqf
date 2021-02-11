@@ -1,3 +1,4 @@
+//pragma ignoreThisFile
 [
     QGVAR(showMessage),
     "CHECKBOX",

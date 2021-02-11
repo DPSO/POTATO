@@ -1,3 +1,4 @@
+//pragma ignoreThisFile
 /*
     SettingName <STRING>
     Value <ANY>
